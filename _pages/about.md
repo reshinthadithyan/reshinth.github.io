@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---     
-
-About Me
-======  
 This is Reshinth Adithyan. This is Reshinth Adithyan, you can call me Reshinth. I am a Researcher/Research Engineer working in the intersection of <b>Machine Learning for Code Representation Learning for Developer Productivity and Static Analysis</b>. I started liking the process of writing a parser recently. As of 2022, I am focussed on Research of Neural Program Synthesis with DSLs at [Saama Research Lab](https://www.saama.com/category/saama-research/) and spending my free time at [Code.AI](https://code.ai) which is now under [Carper.AI](https://carper.ai/) thinking about Machine Learning applied it on code.
 
 
