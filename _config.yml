@@ -81,14 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Reshinth Adithyan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Research for Machine Learning applied on Code"
   location         : "Pondicherry"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "reshinth.adith@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +96,10 @@ author:
   github           : "reshinthadithyan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "reshinth_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/reshinth-adithyan-484522135/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCy4dxJ4zhY7QIW2zGv6sZcw"
   wikipedia        :
 
 
