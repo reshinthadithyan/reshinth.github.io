@@ -33,5 +33,5 @@ Research Interests
 Tools
 =====
 <li><strong>Languages :</strong> python, javascript, haskell, rust </li>
-        <li><strong>Deep Learning Tools :</strong> pytorch, jax, jraph, tensorflow, keras, huggingface Transformers, Pytorch Geometric. </li>
-        <li><strong>Parser Generators :</strong>jison, python lex-yacc, antlr</li>
+<li><strong>Deep Learning Tools :</strong> pytorch, jax, jraph, tensorflow, keras, huggingface Transformers, Pytorch Geometric. </li>
+<li><strong>Parser Generators :</strong>jison, python lex-yacc, antlr</li>
