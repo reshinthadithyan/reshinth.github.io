@@ -7,9 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---     
-This is Reshinth Adithyan. This is Reshinth Adithyan, you can call me Reshinth. I am a Researcher/Research Engineer working in the intersection of <b>Machine Learning for Code Representation Learning for Developer Productivity and Static Analysis</b>. I started liking the process of writing a parser recently. As of 2022, I am focussed on Research of Neural Program Synthesis with DSLs at [Saama Research Lab](https://www.saama.com/category/saama-research/) and spending my free time at [Code.AI](https://code.ai) which is now under [Carper.AI](https://carper.ai/) thinking about Machine Learning applied it on code.
+This is Reshinth Adithyan. This is Reshinth Adithyan, you can call me Reshinth. I am a Researcher/Research Engineer working in the intersection of <b>Machine Learning for Code Representation Learning for Developer Productivity and Static Analysis</b>. I started liking the process of writing a parser recently. As of 2022, I am focussed on Research of Neural Program Synthesis with DSLs at [Saama Research Lab](https://www.saama.com/category/saama-research/) and spending my free time at [Code.AI](https://code.ai) which is now under [Carper.AI](https://carper.ai/) thinking about Machine Learning applied on code.
 
+Projects with Code Representation Learning
+======
+- <b><a href="https://github.com/CodedotAl/gpt-code-clippy" target="_blank">GPT-CODE-CLIPPY</a></b>
+          Was part of the core team in buiding the open source GitHub CoPilot during the huggingface flax/jax sprint.
+- <b><a href="https://huggingface.co/spaces/reshinthadith/code-representation-learning" target="_blank"> Code Representation Learning</a></b>is a collective of a Machine Learning on Code tasks, which are ready to showcase using HuggingFace Spaces.
+- <b><a href="https://huggingface.co/reshinthadith/codet5-type-inference" target="_blank"> Type Inference using AutoRegressive Pre-Trained Transformers</a></b> A research project on Finetuning the codeT5 Model to infer the type of identifier in a given code snippet.
+- <b><a href="https://github.com/reshinthadithyan/flashfill-program-synthesis" target="_blank"> Flash Fill Program Synthesis</a></b> Interpreted IO based program synthesis using Pre-Trained Transformers.
+## Have a look at my Research Proposal
+<a href="files/intrinsic_eval_proposal.pdf" target="_blank">Intrinsic Evaluation for Models trained on Code</a> Examining how well models trained with CausalLM objective, knows the context of the code.
 
+Research Interests
+======
+- Code Representation Learning
+- Parsers and Compilers
+- Geometric Representation Learning in DFG(s)/CFG(s)
+- Naturalness in Code
+- Neural Program Synthesis
+- Domain Specific Language Engineering
+- Human Computer Interaction via Compilers
 <!-- 
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
