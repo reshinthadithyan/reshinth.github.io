@@ -10,4 +10,4 @@ redirect_from:
 
 Curriculum Vitae
 ======
-Find me CV [here](files/Reshinth_CV.pdf)
+Find me CV [here](https://github.com/reshinthadithyan/reshinthadithyan.github.io/blob/master/files/Reshinth_CV.pdf)
