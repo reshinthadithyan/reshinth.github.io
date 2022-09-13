@@ -11,8 +11,8 @@ This is Reshinth Adithyan. This is Reshinth Adithyan, you can call me Reshinth. 
 
 Projects with Code Representation Learning
 ======
-- <b><a href="https://github.com/CodedotAl/gpt-code-clippy" target="_blank">GPT-CODE-CLIPPY</a></b>
-          Was part of the core team in buiding the open source GitHub CoPilot during the huggingface flax/jax sprint.
+- <b><a href="https://github.com/CodedotAl/gpt-code-clippy" target="_blank">gpt-code-clippy</a></b>
+           - was part of the core team in buiding the open source GitHub CoPilot during the huggingface flax/jax sprint.
 - <b><a href="https://huggingface.co/spaces/reshinthadith/code-representation-learning" target="_blank"> Code Representation Learning</a></b>is a collective of a Machine Learning on Code tasks, which are ready to showcase using HuggingFace Spaces.
 - <b><a href="https://huggingface.co/reshinthadith/codet5-type-inference" target="_blank"> Type Inference using AutoRegressive Pre-Trained Transformers</a></b> A research project on Finetuning the codeT5 Model to infer the type of identifier in a given code snippet.
 - <b><a href="https://github.com/reshinthadithyan/flashfill-program-synthesis" target="_blank"> Flash Fill Program Synthesis</a></b> Interpreted IO based program synthesis using Pre-Trained Transformers.
